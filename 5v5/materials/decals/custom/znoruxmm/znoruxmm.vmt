@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$basetexture"	"vgui/logos/znoruxmm"
+	"$basetexture"	"znoruxmm"
 	"$translucent" "1"
 	"$ignorez" "1"
 	"$vertexcolor" "1"
